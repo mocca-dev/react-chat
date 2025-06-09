@@ -14,7 +14,7 @@
   <p align="center">
     This is a simple React chat app to practice this type of interview excercises. 
     <br />
-    <a href="https://reactchat.surge.sh/">View Demo</a>
+    <a href="https://mocca-dev.github.io/react-chat/">View Demo</a>
   </p>
 </div>
 
@@ -50,10 +50,10 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
+
 <div align="center">
   <img src="readme-images/reactchat-screenshot.png" alt="Logo" height="400">
 </div>
@@ -64,18 +64,15 @@
 </p>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* [React.js](https://reactjs.org/)
-* [Firebase](https://firebase.google.com/)
+- [React.js](https://reactjs.org/)
+- [Firebase](https://firebase.google.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 This app is made with create-react-app so the installation process is simple.
@@ -97,9 +94,8 @@ This app is made with create-react-app so the installation process is simple.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 ### Chat
@@ -108,18 +104,16 @@ It's very straightfoward, just sign in and start chating.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Nicolás Tonelli - nicolastonelli1406@gmail.com
@@ -128,11 +122,9 @@ Project Link: [https://github.com/mocca-dev/react-chat.git](https://github.com/m
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
